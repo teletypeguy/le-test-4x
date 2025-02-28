@@ -1,3 +1,3 @@
 # some-rfft-stft-wavelet-comparisons
 
-Some comparisons of rfft, stft, and wavelet transforms, and a butter bandpass sos func.
+A few comparisons of rfft, stft, and wavelet transforms, and a butter bandpass tf/sos func.
